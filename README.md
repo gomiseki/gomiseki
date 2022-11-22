@@ -1,7 +1,5 @@
 
-<div align="center">
-
-  ### 안녕하세요👋 롤덕후 개발자 Gomi입니다 
+### 안녕하세요👋 롤덕후 개발자 Gomi입니다 
   
 
   <br>
@@ -10,6 +8,7 @@
   </a>
   
   <br>
+  
   <a target="_blank" href="https://velog.io/@gomiseki">
     <img src="https://user-images.githubusercontent.com/50083131/203188590-73da0246-4dd9-4434-90c0-61e3a2293a27.png" height="70"/>
   </a>
@@ -23,7 +22,7 @@
   ![Gomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomiseki&show_icons=true&card_width=300&theme=material-palenight)
     <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomiseki&layout=compact&card_width=300&theme=material-palenight)
-</div>
+
 
 <!--
 **gomiseki/gomiseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
