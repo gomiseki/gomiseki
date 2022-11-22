@@ -1,7 +1,7 @@
-
-### 안녕하세요👋 개발자 Gomi입니다 
   
+## 안녕하세요👋, 개발자 Gomi입니다 
 
+<div align="center">
   <br>
   <a target="_blank" href="https://gomiseki.github.io/portfolio/">
     <img src="https://user-images.githubusercontent.com/50083131/203188658-2a7c6ef6-8b28-42e5-822c-6886e74c1f8e.png" height="70"/>
@@ -19,10 +19,11 @@
   <br>
   <br>
   
-  ![Gomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomiseki&show_icons=true&card_width=300&theme=material-palenight)
-  <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomiseki&layout=compact&card_width=300&theme=material-palenight)
+   <br>
+  ![Gomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomiseki&show_icons=true&theme=material-palenight)
 
+</div>
 
 <!--
 **gomiseki/gomiseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
