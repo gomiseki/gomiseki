@@ -5,15 +5,15 @@
   
 
   <br>
-  <a href="https://gomiseki.github.io/portfolio/">
+  <a target="_blank" href="https://gomiseki.github.io/portfolio/">
     <img src="https://user-images.githubusercontent.com/50083131/203188658-2a7c6ef6-8b28-42e5-822c-6886e74c1f8e.png" height="100"/>
   </a>
   
   <br>
-  <a href="https://velog.io/@gomiseki">
+  <a target="_blank" href="https://velog.io/@gomiseki">
     <img src="https://user-images.githubusercontent.com/50083131/203188590-73da0246-4dd9-4434-90c0-61e3a2293a27.png" height="70"/>
   </a>
-  <a href="mailto:gomi.dev1755@gmail.com">
+  <a target="_blank" href="mailto:gomi.dev1755@gmail.com">
     <img src="https://user-images.githubusercontent.com/50083131/203189971-eb464373-74c6-4877-9dcf-c75f5009970e.png" height="70"/>
   </a>
   
