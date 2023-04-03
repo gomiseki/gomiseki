@@ -16,8 +16,8 @@
   <br>
   <br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomiseki&layout=compact&card_width=150&hide_border=true&theme=vue)
-  ![Gomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomiseki&show_icons=true&card_width=150&hide_border=true&theme=vue)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomiseki&layout=compact&card_width=105&hide_border=true&theme=vue)
+  ![Gomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomiseki&show_icons=true&card_width=105&hide_border=true&theme=vue)
 
 </div>
 
