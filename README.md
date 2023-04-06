@@ -3,9 +3,6 @@
 
 <div align="center">
   <br>
-  <a target="_blank" href="https://gomiseki.github.io/portfolio/">
-    <img src="https://user-images.githubusercontent.com/50083131/203188658-2a7c6ef6-8b28-42e5-822c-6886e74c1f8e.png" height="70"/>
-  </a>
   <a target="_blank" href="https://velog.io/@gomiseki">
     <img src="https://user-images.githubusercontent.com/50083131/203188590-73da0246-4dd9-4434-90c0-61e3a2293a27.png" height="70"/>
   </a>
